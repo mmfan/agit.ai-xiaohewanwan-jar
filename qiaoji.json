@@ -517,15 +517,6 @@
 		"filterable": 1,
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/dmw.json"
 	}, {
-		"key": "csp_xpath_ysjdm",
-		"name": "异世界动漫(XPF)",
-		"type": 3,
-		"api": "csp_XPathMacFilter",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/ysjdm.json"
-	}, {
 		"key": "csp_xpath_6d",
 		"name": "六度TV(XPF)",
 		"type": 3,
@@ -571,15 +562,6 @@
 		"filterable": 0,
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/czspp.json"
 	}, {
-		"key": "csp_XPath_bidiys",
-		"name": "哔嘀影视(XP)",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/bidiys2.json"
-	}, {
 		"key": "csp_xpath_age",
 		"name": "AGE动漫(XP)",
 		"type": 3,
@@ -597,15 +579,6 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/dm84.json"
-	}, {
-		"key": "csp_xpath_yinghua",
-		"name": "樱花动漫(XP)",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/yinghua2.json"
 	}, {
 		"key": "csp_xpath_17skr",
 		"name": "路漫漫动漫(XP)",
@@ -642,15 +615,6 @@
 		"quickSearch": 1,
 		"filterable": 0,
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/lezhutv.json"
-	}, {
-		"key": "csp_xpath_xfeiji",
-		"name": "小小影视(XP)",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/xfeiji.json"
 	}],
 	"parses": [{
 		"name": "解析聚合",
