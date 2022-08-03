@@ -1931,17 +1931,17 @@
 		"type": 2,
 		"url": "Sequence"
 	}, {
-		"name": "fuqi",
+		"name": "aiku",
 		"type": 1,
-		"url": "https://play.fuqizhishi.com/maotv/API.php?appkey=xiongdimenbieguaiwodingbuzhulegailekey07201538&url="
+		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
 	}, {
 		"name": "盘古",
 		"type": 0,
 		"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
 	}, {
-		"name": "左岸",
+		"name": "jhjx",
 		"type": 1,
-		"url": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url=",
+		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 		"ext": {
 			"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],
 			"header": {
@@ -1949,9 +1949,9 @@
 			}
 		}
 	}, {
-		"name": "太空",
+		"name": "jhjx",
 		"type": 1,
-		"url": "http://124.222.68.182/jiexi/4kJX.php/?url=",
+		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 		"ext": {
 			"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "CL4K", "renrenmi", "ltnb", "bilibili", "1905", "xigua"]
 		}
