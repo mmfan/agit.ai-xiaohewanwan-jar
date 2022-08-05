@@ -7,6 +7,8 @@
 	"rxjx": "http://39.96.174.234:2025/iphone/rongxing.php?url=",
 	"zbjx": "http://39.96.174.234:2025/iphone/huya.php?id=",
 	"gqjx": "http://39.96.174.234:2025/iphone/100.php?url=",
-    "xxjx": "http://39.96.174.234:2025/iphone/xinxin.php?url=",
+	"xxjx": "http://39.96.174.234:2025/iphone/xinxin.php?url=",
+	"appid": "10000",
+	"version": "1.2.8",
 	"host": "39.96.174.234:2025"
 }
