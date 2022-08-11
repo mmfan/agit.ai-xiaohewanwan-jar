@@ -633,15 +633,15 @@
 	}, {
 		"name": "aiku",
 		"type": 1,
-		"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=bhjknprtuyACFIWY78&url="
+		"url": "http://cc.37o.cc/tvjx.php?url="
 	}, {
 		"name": "盘古",
 		"type": 0,
-		"url": "https://www.m3u8.tv.cdn.8old.cn/jx.php?url="
+		"url": "http://cc.37o.cc/tvjx.php?url="
 	}, {
 		"name": "江湖",
 		"type": 1,
-		"url": "http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+		"url": "http://150.230.216.174/tvjx.php?url=",
 		"ext": {
 			"flag": ["qq", "qiyi", "mgtv", "youku", "letv", "sohu", "xigua", "1905", "优播线路", "腾播线路"],
 			"header": {
