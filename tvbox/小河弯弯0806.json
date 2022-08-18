@@ -1,18 +1,14 @@
 {
-// spider
+// JAR
 //"spider":"https://gitea.com/ggrrttyyiii/xhww/raw/branch/master/jar/juhuang.jar;md5;8A77AB97C7E9D171B406B7CF628FCF77",
-
 //"spider":"https://pan.05kr.com/down.php/b63e45664754f6ef2536428b857901c6.jar;md5;5f0c100450f09a0ab131a64894948f4b",
 "spider":"https://agit.ai/xiaohewanwan/jar/raw/branch/main/jar-1/xhww.jar",
-
-
-
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8xMjM5MC8lRTUlQjAlOEYlRTYlQjIlQjMlRTUlQkMlQUYlRTUlQkMlQUYlRTclOUIlQjQlRTYlOTIlQUQudHh0P3NpZ249NHB1RnQwZF8xUnMyRVJMSGgwZ1JQa2NEX1RjX19LY05obzR0WElOVG1wbyUzRCUzQTA="]}]}],
 //"wallpaper":"https://api.lyiqk.cn/scenery",
 "wallpaper":"https://api.lyiqk.cn/scenery", 
-
+//爬虫
 "sites":[
 {"key":"小苹果","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_77","name":"👍酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
@@ -108,8 +104,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-    
-
 {"key":"csp_Jianying","name":"✨简影","api":"csp_JianYing","type":3,"searchable":1,"quickSearch":1,"filterable":0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDk1MCwiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xNlQyMzoyNjoyMi4xNDQrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTE2VDIzOjI2OjIyLjE0NCswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjIzMDg4MTcwMTBAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiY2ZhYzE3Y2QtMmY5Mi00MTlkLTgwZTctYzRlNGI3YTk3MjNlIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjEyNjgzODcsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.jkloD7HymtrLwvWaiAHOsxxqSqN2j7RgitKDhJS5e5Q"},      
 {"key":"293视频","name":"🏃293视频(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitea.com/lucky/P/raw/branch/master/jar/index.html;md5;f390d4835a1076e3651d08a2fd0e31ac"},
 {"key": "剧荒TV（SP）","name": "🐛剧荒TV（SP）","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":""},
