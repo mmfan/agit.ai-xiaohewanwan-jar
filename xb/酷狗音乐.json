@@ -1,15 +1,16 @@
-﻿{"name": "酷狗MV",
- "url": "https://www.kugou.com",
-"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
-"直接播放": "1",
-"列表显示": "0",
-"横图显示": "0",
-  "fenlei":  "新歌推荐$/mvweb/html/index_9_#华语精选$/mvweb/html/index_13_#日韩精选$/mvweb/html/index_17_#欧美精选$/mvweb/html/index_16_",
-  "houzhui":  ".html",
-"shifouercijiequ": "1",
+﻿{
+  "name": "酷狗MV",
+  "url": "https://www.kugou.com",
+  "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36",
+  "直接播放": "1",
+  "列表显示": "0",
+  "横图显示": "0",
+  "fenlei": "新歌推荐$/mvweb/html/index_9_#华语精选$/mvweb/html/index_13_#日韩精选$/mvweb/html/index_17_#欧美精选$/mvweb/html/index_16_",
+  "houzhui": ".html",
+  "shifouercijiequ": "1",
   "jiequqian": "<ul class=\"clearfix",
-  "jiequhou": "</ul>", 
- "jiequshuzuqian": "<a",
+  "jiequhou": "</ul>",
+  "jiequshuzuqian": "<a",
   "jiequshuzuhou": "</a>",
   "tupianqian": "_src=\"",
   "tupianhou": "\"",
@@ -18,4 +19,3 @@
   "lianjieqian": "href=\"",
   "lianjiehou": "\""
 }
-
