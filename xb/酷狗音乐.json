@@ -1,0 +1,21 @@
+﻿{"name": "酷狗MV",
+ "url": "https://www.kugou.com",
+"ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
+"直接播放": "1",
+"列表显示": "0",
+"横图显示": "0",
+  "fenlei":  "新歌推荐$/mvweb/html/index_9_#华语精选$/mvweb/html/index_13_#日韩精选$/mvweb/html/index_17_#欧美精选$/mvweb/html/index_16_",
+  "houzhui":  ".html",
+"shifouercijiequ": "1",
+  "jiequqian": "<ul class=\"clearfix",
+  "jiequhou": "</ul>", 
+ "jiequshuzuqian": "<a",
+  "jiequshuzuhou": "</a>",
+  "tupianqian": "_src=\"",
+  "tupianhou": "\"",
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\""
+}
+
